@@ -52,12 +52,12 @@ body {
     flex-direction: column;
 }
   .banner:hover {
-    width: 1000px;
+    width: 600px;
   }
   .banner {
     display: flex;
     justify-content: center;
-    width: 500px;
+    width: 400px;
     height: 100px;
     background: red;
     transition: width 1s;
@@ -65,11 +65,16 @@ body {
     background-image: linear-gradient(red, yellow);
     border-radius: 2px;
   }
+  .mag {
+    margin-top: 20px;
+    margin-left: 20px;
+  }
   .check {
     display: flex;
     align-items: center;
     font-family: 'Zeyada', cursive;
-    font-size: 50px;
+    font-size: 40px;
+    margin-right: 20px;
   }
   .pizza-info {
     display: flex;

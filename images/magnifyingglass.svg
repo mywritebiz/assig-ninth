@@ -1,12 +1,6 @@
 <svg width="50" height="50" fill="none" xmlns="http://www.w3.org/2000/svg">
-<symbol id="magnifyingglass" viewbox="0 0 310 310">
-	<circle cx="110" cy="110" r="100" stroke-width="18" fill="white" stroke="black"></circle>
-        <polyline points="160,190 200,230 240,270 280,310" stroke="black" stroke-width="18"></polyline>
+<symbol id="magnifyingglass" viewbox="0 0 240 240">
+	<circle cx="45" cy="45" r="20" stroke-width="3" fill="white" stroke="black"></circle>
+        <polyline points="55,62 70,85" stroke="black" stroke-width="3"></polyline>
 </symbol>
 </svg>
-
-<!-- <svg width="50" height="50" viewbox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <circle cx="110" cy="110" r="100" stroke-width="18" fill="white" stroke="green"></circle>
-        <polyline points="70,120 100,165 150,80" stroke="green" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"></polyline>
-
--->
